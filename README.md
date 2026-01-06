@@ -44,5 +44,4 @@ Para manter a organização profissional, o arquivo foi dividido em três camada
 Este projeto não apenas conta assinaturas, mas simula o modelo de negócio atual da Netflix, incluindo a variável de **"Perfil Extra"** (taxa de compartilhamento de senha) e a análise de impacto de **cupons de desconto** no faturamento final.
 
 ---
-**Desenvolvido por:** [Seu Nome Aqui]
-**Data:** 2024
+**Desenvolvido por:** Gelson Bario com o auxilio do professor Felipão
