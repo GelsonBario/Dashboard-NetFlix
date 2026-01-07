@@ -18,8 +18,6 @@ O dashboard foi estruturado para monitorar quatro métricas vitais:
 ## 🛠️ Tecnologias e Referências Técnicas
 * **Ferramenta:** Microsoft Excel / Google Sheets.
 * **Referência Visual:** Identidade visual oficial da Netflix.
-    * **Fundo:** Dark Mode (#141414).
-    * **Destaques:** Vermelho Netflix (#E50914).
     * **Tipografia:** Cores contrastantes (Branco e Cinza Claro) para garantir a legibilidade em telas escuras.
 * **Lógica de Fórmulas:** Utilização de funções avançadas como `SOMASE`, `CONT.SE`, `MÉDIA` e conexões dinâmicas entre caixas de texto e células da aba de cálculos.
 
